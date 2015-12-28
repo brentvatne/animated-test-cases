@@ -1,0 +1,13 @@
+{
+  "name": "SimpleReddit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "fbjs": "^0.5.1",
+    "immutable": "^3.7.6",
+    "react-native": "kmagiera/react-native#offload_animated"
+  }
+}
